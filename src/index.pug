@@ -1,0 +1,11 @@
+extends layout.pug
+
+block content
+    #goodCars.container
+        main.cover
+            .titleArea
+                h2.title #{title}
+                h4.subtitle #{subtitle}
+            .imgArea
+                img(src=`${QRCodeUrl}`)
+                small.describe #{describe}
