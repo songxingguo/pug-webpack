@@ -5,7 +5,7 @@
     "keywords": "汽车，买车，汽车网，汽车报价，汽车图片，新闻，评测，B级车",
     "description": "好车多多提供汽车资讯，精彩的汽车新闻、行情、评测、导购内容。",
     "describe": "锦鲤多多，好运连连",
-    "pcUrl": "/images/goodCar-pc.jpg",
+    "pcUrl": "./images/goodCar-pc.jpg",
     "mbUrl": "/images/goodCar-mb.jpg",
     "QRCodeUrl": "/images/QR-code.png"
   },
