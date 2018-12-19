@@ -12,6 +12,7 @@ const html = views(__dirname + '/index.pug', {
 
 path(__dirname + '/../dist/goodCar/index.html', html, './dist/goodCar');
 
+
 // var pug = require('pug');
 // var path = require('path')
 // var fs = require('fs')
